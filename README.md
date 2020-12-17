@@ -10,7 +10,7 @@
     
 #### PART II:
     use NLP to input eroded text. 
-    Find code in [here]{https://github.com/Hassia001/Recover-Eroded-Text-Plates-at-Historical-Sites-with-Bert}
+    Find code in https://github.com/Hassia001/Recover-Eroded-Text-Plates-at-Historical-Sites-with-Bert
     
 #### Read more:
     https://halzouma.medium.com/restoring-eroded-text-in-plate-inscriptions-images-using-deep-learning-4d0e7b6d53e7
